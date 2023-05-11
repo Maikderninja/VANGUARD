@@ -1,2 +1,2 @@
-local whitelistedusers = {".", "SyrianMujahedeen"}
+local whitelistedusers = {"."}
 return whitelistedusers
