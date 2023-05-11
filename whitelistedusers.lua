@@ -1,3 +1,3 @@
-local whitelistedusers = {".", "nigga"}
+local whitelistedusers = {"."}
 
 return whitelistedusers
