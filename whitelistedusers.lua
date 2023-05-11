@@ -1,5 +1,2 @@
-local whitelistedusers = {{"."}
-
-return whitelisteduser, "lol"}
-
+local whitelistedusers = {"."}
 return whitelistedusers
