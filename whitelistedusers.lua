@@ -1,5 +1,6 @@
-local whitelistedusers = {'test',
-    'test',
-    'test'}
+local whitelistedusers = {
+"."
+
+}
 
 return whitelistedusers
