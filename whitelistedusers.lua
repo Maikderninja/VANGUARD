@@ -1,6 +1,7 @@
 local whitelistedusers = {
 '.',
-    'test'
+    'test',
+    'lo'
 }
 
 return whitelistedusers
