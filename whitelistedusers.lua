@@ -1,4 +1,3 @@
-local whitelistedusers = {    'test'
-}
+local whitelistedusers = {}
 
 return whitelistedusers
