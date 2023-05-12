@@ -1,2 +1,2 @@
-local whitelistedusers = {".", "test", "youstupidnoger12", "nigger"}
+local whitelistedusers = {".", "test", "youstupidnoger12"}
 return whitelistedusers
