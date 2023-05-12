@@ -1,1 +1,5 @@
+local whitelistedusers = {
+ 
+}
 
+return whitelistedusers
