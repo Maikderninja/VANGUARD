@@ -1,7 +1,4 @@
-local whitelistedusers = {
-'.',
-    'test',
-    'lo'
-}
+local whitelistedusers = {'.',
+'lo'}
 
 return whitelistedusers
